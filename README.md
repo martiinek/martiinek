@@ -4,6 +4,7 @@ Momentálně studuji na FEKT VUT a baví mě IoT, embedded systémy a robotika.
 
 ## 🌍 Můj web
 Podívejte se na mé projekty v přehlednější podobě:
+[![Portfolio](https://img.shields.io/badge/Moje-Portfolio-orange?style=for-the-badge&logo=react)](https://martiinek.github.io/)
 [**Zobrazit portfolio →**](https://martiinek.github.io/)
 
 <!--
