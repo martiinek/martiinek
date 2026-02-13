@@ -1,4 +1,10 @@
-## Hi there 👋
+# Ahoj, já jsem Martin! 👋
+
+Momentálně studuji na FEKT VUT a baví mě IoT, embedded systémy a robotika.
+
+## 🌍 Můj web
+Podívejte se na mé projekty v přehlednější podobě:
+[**Zobrazit portfolio →**](https://martiinek.github.io/)
 
 <!--
 **martiinek/martiinek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
