@@ -2,31 +2,23 @@
 
 🎓 Student **FEKT VUT**  
 ⚡ Zajímám se o **IoT, embedded systémy, robotiku a automatizaci**  
-🛠️ Rád propojuji 3D tisk, hardware a softwar pro tvorbu funkčních, reálných projekty  
-
+🛠️ Rád propojuji **3D tisk, hardware a software** pro tvorbu funkčních, reálných projekty  
 ---
-
 ## 🛠️ Oblasti zájmu
-
 ### Hardware
 - ESP32
 - STM32
 - Raspberry Pi
-
 ### Software
 - C / C++
 - Python
 - Linux
 - Git
-
 ---
-
 ## 🌍 Portfolio
-
 Moje projekty najdete přehledně zde:
 
 [![Portfolio](https://img.shields.io/badge/Moje-Portfolio-orange?style=for-the-badge&logo=react)](https://martiinek.github.io/)   
-
 ---
 
 <!--
