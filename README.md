@@ -2,7 +2,7 @@
 
 🎓 Student **FEKT VUT**  
 ⚡ Zajímám se o **IoT, embedded systémy, robotiku a automatizaci**  
-🛠️ Rád propojuji **3D tisk, hardware a software** pro tvorbu funkčních, reálných projekty  
+🛠️ Rád propojuji **3D tisk, hardware a software** pro tvorbu funkčních, reálných projektů
 
 ---
 ## 🛠️ Oblasti zájmu
