@@ -21,6 +21,7 @@
 ## 🌍 Portfolio
 
 Moje projekty najdete přehledně zde:
+
 [![Portfolio](https://img.shields.io/badge/Moje-Portfolio-orange?style=for-the-badge&logo=react)](https://martiinek.github.io/)   
 
 ---
