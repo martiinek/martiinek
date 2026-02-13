@@ -1,11 +1,33 @@
-# Ahoj, já jsem Martin! 👋
+# 👋 Ahoj, jsem Martin  
 
-Momentálně studuji na FEKT VUT a baví mě IoT, embedded systémy a robotika.
+🎓 Student **FEKT VUT**  
+⚡ Zajímám se o **IoT, embedded systémy, robotiku a automatizaci**  
+🛠️ Rád propojuji 3D tisk, hardware a softwar pro tvorbu funkčních, reálných projekty  
 
-## 🌍 Můj web
-Podívejte se na mé projekty v přehlednější podobě:
-[![Portfolio](https://img.shields.io/badge/Moje-Portfolio-orange?style=for-the-badge&logo=react)](https://martiinek.github.io/)
-[**Zobrazit portfolio →**](https://martiinek.github.io/)
+---
+
+## 🛠️ Oblasti zájmu
+
+### Hardware
+- ESP32
+- STM32
+- Raspberry Pi
+
+### Software
+- C / C++
+- Python
+- Linux
+- Git
+
+---
+
+## 🌍 Portfolio
+
+Moje projekty najdete přehledně zde:
+
+[![Portfolio](https://img.shields.io/badge/Moje-Portfolio-orange?style=for-the-badge&logo=react)](https://martiinek.github.io/)   
+
+---
 
 <!--
 **martiinek/martiinek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
