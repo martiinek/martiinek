@@ -15,7 +15,7 @@
 - C / C++
 - Python
 - Linux
-- Git
+- Openclaw
 ---
 
 ## 🌍 Portfolio
